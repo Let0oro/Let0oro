@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Juanma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Let0oro&show_icons=true&theme=transparent)
 <!--
 **Let0oro/Let0oro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
