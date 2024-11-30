@@ -5,7 +5,7 @@
 
 - 💕 Lover of vanilla JS & TS and CSS, although React is winning my heart
 - 🔭 I’m currently practicing  SQL & C++
-- 🌱 I’m currently learning with [RockTheCode](https://app.thepowermba.com/)
+- 🌱 I’m finished [RockTheCode](https://app.thepowermba.com/)
 - 👹 I love writing, whether it's code or literature, and I need to bring them together
 - 😊 Ask me about anything
 - ⚡ Fun fact: The only thing I don't like to read too much is a callbacks hell
